@@ -16,3 +16,6 @@ js/smooth-scroll.js (barra de rolagem)
 js/all.js (icones)
 js/jquery-1.11.3.min.js (animação)
 js/bootstrap.min.js (estilo do bootstrap)
+
+A maioria das sections estão separadas e os seus códigos estão na pasta include. Mas para quem não utiliza algum server 
+para executar executar arquivos como o PHP, há um file index.html para facilitar o trabalho e a visualização do arquivo.
